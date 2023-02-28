@@ -1,0 +1,5 @@
+#test2 with path 1
+M
+2
+.$
+.@

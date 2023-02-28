@@ -1,0 +1,6 @@
+#test6 3x3 with all waters
+M
+3
+$..
+...
+@..

@@ -1,0 +1,7 @@
+#fm STACK
+M
+4
+.##o
+oo..
+@oo.
+o$..

@@ -1,0 +1,5 @@
+#test4 path 1 all land
+M
+2
+o$
+o@

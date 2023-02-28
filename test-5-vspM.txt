@@ -1,0 +1,6 @@
+#test5 3x3 with all land
+M
+3
+$oo
+ooo
+@oo
